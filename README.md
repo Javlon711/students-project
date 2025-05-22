@@ -1,1 +1,1 @@
-# students-project
+# blog-project
